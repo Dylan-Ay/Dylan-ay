@@ -10,8 +10,8 @@ I'm currently learning Web Development at school, I'm preparing a BTEC Higher Na
 * 🖥️  See my portfolio at [dylanayache.com](http://dylanayache.com/)
 * ✉️  You can contact me at [dylan.developpeur@gmail.com](mailto:dylan.developpeur@gmail.com)
 * 🚀  I'm currently working on [An E-shopping website](http://github.com/Dylan-Ay/App-Ecommerce)
-* ⚡  <strong>I'm currently looking for an internship as Web Developer. From the 09/05/2022 to the 10/21/2022</strong>
 * 👨‍💻  I'm a native French speaker. I also have a B2 level in English and Spanish.
+* ⚡  <strong>I'm currently looking for an internship as Web Developer. From the 09/05/2022 to the 10/21/2022</strong>
 
 ### Skills
 
