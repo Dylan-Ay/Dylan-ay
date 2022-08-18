@@ -10,9 +10,8 @@ I'm currently learning Web Development at school, I'm preparing a BTEC Higher Na
 * 🌍  I'm based in Colmar, France
 * 🖥️  See my portfolio at [dylanayache.com](http://dylanayache.com/)
 * ✉️  You can contact me at [dylan.developpeur@gmail.com](mailto:dylan.developpeur@gmail.com)
-* 🚀  I'm currently working on a [School Management App](https://github.com/Dylan-Ay/AppFormation)
+* 🚀  I'm currently working on a learning Laravel framework
 * 👨‍💻  I'm a native French speaker. I also have a B2 level in English and Spanish
-* ⚡  <strong>I'm currently looking for an internship as Web Developer. From the 09/05/2022 to the 10/21/2022</strong>
 
 ### Skills
 
