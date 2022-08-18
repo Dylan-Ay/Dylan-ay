@@ -10,7 +10,7 @@ I'm currently learning Web Development at school, I'm preparing a BTEC Higher Na
 * 🌍  I'm based in Colmar, France
 * 🖥️  See my portfolio at [dylanayache.com](http://dylanayache.com/)
 * ✉️  You can contact me at [dylan.developpeur@gmail.com](mailto:dylan.developpeur@gmail.com)
-* 🚀  I'm currently working on a learning Laravel framework
+* 🚀  I'm currently learning the Laravel framework
 * 👨‍💻  I'm a native French speaker. I also have a B2 level in English and Spanish
 
 ### Skills
