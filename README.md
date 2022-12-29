@@ -1,16 +1,15 @@
 Hi 👋 My name is Dylan
 ======================
 
-I'm a Web Developer Student
+I'm a Full-Stack Developer specialized in Symfony/Laravel
 ---------------------------
 
-I'm currently learning Web Development at school, I'm preparing a BTEC Higher National Diploma. My interest for computer science and the high-tech area has always been a passion for me. Since young after my high school diploma , I started to learn by myself the programmation online, it reinforced my idea to work in the IT area.<br> <br>Thanks to my personals skills and my self-taught experience, I got a first work as IT Technician. I worked as IT Technician for 3 years. During the pandemic, I went back to programming, who made me want to explore more the Web Development aspect instead of IT network technician one. That's why today I would like to have a diploma in this area.<br>
-<br>Since October 2021 I'm learning by myself Web Development stacks and now I'm a full time student in a Web Development school. I made several personal projects during my self-taught experience that you can find on my GitHub or on my Portfolio. My purpose is to work as a Full Stack Developer.
+My interest for computer science and the high-tech area has always been a passion for me. Since young after my high school diploma , I started to learn by myself the programmation online, it reinforced my idea to work in the IT area.<br> <br>Thanks to my personals skills and my self-taught experience, I got a first work as IT Technician. I worked as IT Technician for 3 years. During the pandemic, I went back to programming, who made me want to explore more the Web Development aspect instead of IT network technician one. Since December 2022 I graduated with a BTEC Higher National Diploma. 
+I made several personal projects during my self-taught experience that you can find on my GitHub or on my Portfolio.
 
-* 🌍  I'm based in Colmar, France
+* 🌍  I'm based in Alsace, France
 * 🖥️  See my portfolio at [dylanayache.com](http://dylanayache.com/)
 * ✉️  You can contact me at [dylan.developpeur@gmail.com](mailto:dylan.developpeur@gmail.com)
-* 🚀  I'm currently looking for an opportunity as Junior Developer 
 * 👨‍💻  I'm a native French speaker. I also have a B2 level in English and Spanish
 
 ### Skills
