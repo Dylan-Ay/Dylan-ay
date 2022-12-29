@@ -10,7 +10,7 @@ I made several personal projects during my self-taught experience that you can f
 * 🌍  I'm based in Alsace, France
 * 🖥️  See my portfolio at [dylanayache.com](http://dylanayache.com/)
 * ✉️  You can contact me at [dylan.developpeur@gmail.com](mailto:dylan.developpeur@gmail.com)
-* 👨‍💻  I'm a native French speaker. I also have a B2 level in English and Spanish
+* 👨‍💻  I'm a native French speaker. I also have an advanced level (B2) in English and Spanish
 
 ### Skills
 
