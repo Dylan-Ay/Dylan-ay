@@ -29,6 +29,7 @@ Frameworks :
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" height="40" alt="Symfony" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" /></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="46" height="40" alt="React" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="46" height="40" alt="Next JS" /></a>
 
 
 Others :
