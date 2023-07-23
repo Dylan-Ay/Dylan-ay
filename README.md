@@ -1,10 +1,10 @@
 Hi 👋 My name is Dylan
 ======================
 
-I'm a Full-Stack Developer specialized in Symfony/Laravel
+I'm a Full-Stack Developer
 ---------------------------
 
-My interest for computer science and the high-tech area has always been a passion for me. Since young after my high school diploma , I started to learn by myself the programmation online, it reinforced my idea to work in the IT area.<br> <br>Thanks to my personals skills and my self-taught experience, I got a first work as IT Technician. I worked as IT Technician for 3 years. During the pandemic, I went back to programming, that made me want to explore more the Web Development aspect instead of IT network technician one. Since December 2022 I graduated with a BTEC Higher National Diploma. 
+My interest for computer science and the high-tech area has always been a passion for me. Since young after my high school diploma , I started to learn by myself the programmation online, it reinforced my idea to work in the IT area.<br> <br>Thanks to my personals skills and my self-taught experience, I got a first work as IT Technician. I worked as IT Technician for 3 years. During the pandemic, I went back to programming, that made me want to explore more the Web Development aspect instead of IT network technician one. Since December 2022 I graduated with a BTEC Higher National Diploma. I'm currently working for "Saabre" which is a media company, I'm doing a work/study training program to prepare a Bachelor in programmation.
 I made several personal projects during my self-taught experience that you can find on my GitHub or on my Portfolio.
 
 * 🌍  I'm based in Alsace, France
@@ -30,7 +30,7 @@ Frameworks :
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" /></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="46" height="40" alt="React" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="46" height="40" alt="Next JS" /></a>
-
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" width="40" height="35" alt="Tailwind" /></a>
 
 Others :
 <br>
