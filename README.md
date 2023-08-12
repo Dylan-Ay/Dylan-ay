@@ -4,10 +4,9 @@ Hi 👋 My name is Dylan
 I'm a Full-Stack Developer
 ---------------------------
 
-My interest for computer science and the high-tech area has always been a passion for me. Since young after my high school diploma , I started to learn by myself the programmation online, it reinforced my idea to work in the IT area.<br> <br>Thanks to my personals skills and my self-taught experience, I got a first work as IT Technician. I worked as IT Technician for 3 years. During the pandemic, I went back to programming, that made me want to explore more the Web Development aspect instead of IT network technician one. Since December 2022 I graduated with a BTEC Higher National Diploma. I'm currently working for "Saabre" which is a media company, I'm doing a work/study training program to prepare a Bachelor in programmation.
-I made several personal projects during my self-taught experience that you can find on my GitHub or on my Portfolio.
+My interest for computer science and the high-tech area has always been a passion for me. Since young after my high school diploma , I started to learn by myself the programmation online, it reinforced my idea to work in the IT area.<br> <br>Thanks to my personals skills and my self-taught experience, I got a first work as IT Technician. I worked as IT Technician for 3 years. During the pandemic, I went back to programming, that made me want to explore more the Web Development aspect instead of IT network technician one. Since December 2022 I graduated with a BTEC Higher National Diploma. I made several personal projects during my self-taught experience that you can find on my GitHub or on my Portfolio.
 
-* 🌍  I'm based in Alsace, France
+* 🌍  I'm based in France
 * 🖥️  See my portfolio at [dylanayache.com](http://dylanayache.000webhostapp.com/)
 * ✉️  You can contact me at [dylan.developpeur@gmail.com](mailto:dylan.developpeur@gmail.com)
 * 👨‍💻  I'm a native French speaker. I also have an advanced level (B2) in English and Spanish
