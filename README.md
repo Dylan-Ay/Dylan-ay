@@ -5,7 +5,6 @@ I'm a Fullstack Developer
 ---------------------------
 
 My interest for computer science and the high-tech area has always been a passion for me. Since young after my high school diploma , I started to learn by myself the programmation online, it reinforced my idea to work in the IT area.<br> <br>Thanks to my personals skills and my self-taught experience, I got a first work as IT Technician. I worked as IT Technician for 3 years. During the pandemic, I went back to programming, that made me want to explore more the Web Development aspect instead of IT network technician one. Since December 2022 I graduated with a BTEC Higher National Diploma. I made several personal projects during my self-taught experience that you can find on my GitHub or on my Portfolio.
-I'm currently working as Fullstack Developer.
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [dylan.developpeur@gmail.com](mailto:dylan.developpeur@gmail.com)
