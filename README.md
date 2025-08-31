@@ -4,9 +4,10 @@ Hi 👋 My name is Dylan
 I'm a Fullstack Developer
 ---------------------------
 
-My interest for computer science and the high-tech area has always been a passion for me. Since young after my high school diploma , I started to learn by myself the programmation online, it reinforced my idea to work in the IT area.<br> <br>Thanks to my personals skills and my self-taught experience, I got a first work as IT Technician. I worked as IT Technician for 3 years. During the pandemic, I went back to programming, that made me want to explore more the Web Development aspect instead of IT network technician one. 
-Since December 2022 I obtained a Higher National Diploma (Bac +2 equivalent), then I've been working 1 year and a half as a Fullstack Developer in a media company. Now I'm pursuing a Bachelor's degree in the same field. 
-I made several personal projects during my self-taught experience that you can find on my GitHub.
+My interest for computer science and the high-tech area has always been a passion for me. Since young after my high school diploma , I started to learn by myself the programmation online, it reinforced my idea to work in the IT area.<br> <br>Thanks to my personals skills and my self-taught experience, I got a first work as IT Technician. I worked as IT Technician for 3 years. 
+<br>During the pandemic, I went back to programming, that made me want to explore more the Web Development aspect instead of IT network technician one. 
+<br><br>Since December 2022 I obtained a Higher National Diploma (Bac +2 equivalent), then I've been working 1 year and a half as a Fullstack Developer in a media company. Now I'm pursuing a Bachelor's degree in the same field. 
+<br><br>I made several personal projects during my self-taught experience that you can find on my GitHub.
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [dylan.developpeur@gmail.com](mailto:dylan.developpeur@gmail.com)
