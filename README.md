@@ -52,8 +52,6 @@ Others :
 
 <p align="left"> <a href="https://www.github.com/Dylan-Ay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dylan-ay/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<b>My GitHub Stats :</b>
+### GitHub Stats
 ![Dylan-ay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dylan-ay&theme=tokyonight&hide_border=false)
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-ay&langs_count=8&theme=tokyonight)
+
