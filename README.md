@@ -50,13 +50,15 @@ Others :
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Dylan-Ay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dylan-ay/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://www.github.com/Dylan-Ay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dylan-ay/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="http://dylanayache-portfolio.up.railway.app/"><img src="https://www.svgrepo.com/show/447845/website-click.svg" width="32" height="32"/></a>
+</p>
 <a href="https://www.codewars.com/users/Dylan-Ay" target="_blank">
   <img src="https://www.codewars.com/users/Dylan-Ay/badges/large"/>
 </a>
 
-
-
 ### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-ay&theme=tokyonight&stats_format=percentages)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Dylan-ay&theme=tokyonight) <br><br>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dylan-ay&theme=tokyonight&layout=donut)
 
