@@ -16,6 +16,7 @@ I worked on several projects during my studies and my self-taught experience tha
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [dylan.developpeur@gmail.com](mailto:dylan.developpeur@gmail.com)
+* 🌐  You can see more details of my work on my <a href="https://dylanayache-portfolio.up.railway.app" target="_blank">Portfolio </a>
 * 👨‍💻  I'm a native French speaker. I also have an advanced level (B2) in English and Spanish
 
 ### Skills
