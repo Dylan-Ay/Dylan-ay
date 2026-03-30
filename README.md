@@ -46,6 +46,8 @@ Frameworks :
 • 
 <a href="https://reactnative.dev" target="_blank" rel="noreferrer"><img src="https://vectorseek.com/wp-content/uploads/2021/12/vectorseek.com-React-Native-Logo-Vector.png" width="40" height="40" alt="React Native" /></a>
 •
+<a href="https://expo.dev" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" width="40" height="40" alt="Expo"/></a>
+•
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
 
 CSS :
@@ -67,6 +69,8 @@ Database :
 Others :
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349342/docker.svg" width="40" height="40" alt="Docker" /></a>
+•
+<a href="https://zustand-demo.pmnd.rs" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="40" height="40" alt="Zustand"/></a>
 •
 <a href="https://fr.wordpress.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/2048px-Wordpress-Logo.svg.png" width="40" height="40" alt="WordPress" /></a>
 •
