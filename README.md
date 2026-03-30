@@ -72,6 +72,8 @@ Others :
 •
 <a href="https://zustand-demo.pmnd.rs" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="40" height="40" alt="Zustand"/></a>
 •
+<a href="https://developer.android.com/studio?hl=fr" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/960px-Android_Studio_Logo_%282023%29.svg.png" width="40" height="40" alt="Android Studio"/></a>
+•
 <a href="https://fr.wordpress.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/2048px-Wordpress-Logo.svg.png" width="40" height="40" alt="WordPress" /></a>
 •
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="40" height="40" alt="JQuery" /></a>
