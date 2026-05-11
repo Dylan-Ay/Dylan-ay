@@ -10,7 +10,7 @@ In 2021, I rediscovered my passion for programming and decided to explore web de
 
 Since the end of December 2022, I obtained a Higher National Diploma (Bac +2 equivalent) then I've been working 1 year and a half as a Fullstack Developer in a media company. Now I'm pursuing a Bachelor's degree in the same field. I'm going to finish this degree in July 2026.
 
-Currently, I'm looking for a company in order to either pursuing a Master degree in a work/study program or to find a permanent contract. 
+I will pursue a Master degree in a work/study program in September 2026.
 
 I worked on several projects during my studies and my self-taught experience that you can find on my GitHub.
 
